@@ -1,14 +1,27 @@
 # Weather Data Analysis 🌤️
 
-A simple Python project to analyze weather data using **Pandas** and **Matplotlib**.
+A Python-based data analysis project that processes and visualizes weather data to identify temperature trends, calculate average temperature, and detect the hottest and coldest days.
 
-## 📊 What It Does
-- Calculates **average temperature**
-- Finds the **hottest and coldest days**
-- Visualizes temperature trends over time
+## 📊 Features
+- Reads weather data from a CSV file
+- Computes the **average temperature**
+- Identifies the **hottest and coldest days**
+- Generates a **line plot** showing temperature trends over time
 
-## 🛠️ How to Run
-1. Install dependencies:  
+## 🛠️ Technologies Used
+- Python
+- Pandas (for data processing)
+- Matplotlib (for visualization)
+
+## ▶️ How to Run the Project
+1. Clone this repository:
    ```bash
-   pip install pandas matplotlib
-   
+   git clone https://github.com/fevenadane586-design/weather-data-analysis.git
+   ```markdown
+2. Install required packages:
+```bash
+pip install pandas matplotlib
+```markdown
+3. Run the analysis script:
+```bash
+python analysis.py
