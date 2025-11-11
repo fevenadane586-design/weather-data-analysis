@@ -40,5 +40,5 @@ Weather Summary:
 Plot saved to temperature_trend.png
 A temperature trend plot (temperature_trend.png) will be saved in the project folder.
 🌍 Built During DevTech Internship
-This project was developed as part of my internship at DevTech, applying data analysis and Python programming skills to real-world datasets — with a recent refactor to demonstrate object-oriented programming best practices.
+This project was developed as part of my internship at DevTech, applying data analysis and Python programming skills to real world datasets  with a recent refactor to demonstrate object-oriented programming best practices.
 
